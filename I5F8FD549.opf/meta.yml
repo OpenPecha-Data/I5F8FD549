@@ -1,0 +1,16 @@
+id: I5F8FD549
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:13:34.208388
+last_modified: 2023-02-10 00:13:34.208484
+source_metadata:
+  title: 'MSV 6,02: Vinītakā'
+  language: bo
+bases:
+  AA2E:
+    base_file: AA2E.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
